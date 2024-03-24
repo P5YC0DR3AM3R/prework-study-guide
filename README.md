@@ -19,10 +19,19 @@ N/A
 
 ## Usage
 
-Access notes for each section as a Study Guide for class.  Suggestions of order of topics to study are available in the Chrome DevTools console panel.  Topics are listed there.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+Study Guide for Class
 
-![alt text](assets/images/screenshot.png)
+This websdite contains study notes for each section as a Study Guide for class.
+
+Accessing Notes
+
+To access notes for each section, please refer to this website.
+
+Order of Topics to Study
+
+Suggestions of the order of topics to study are available in the Chrome DevTools console panel.
+
+![Screenshot](assets/images/screenshot.png)
 
 ## Credits
 
@@ -68,7 +77,8 @@ N/A
 
 If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
 
- ____   ___  _  _  ___  __  ____  ____  ____   __   _  _  ____  ____ 
+<pre> ____   ___  _  _  ___  __  ____  ____  ____   __   _  _  ____  ____ 
 (  _ \ / __)( \/ )/ __)/  \(    \(  _ \( __ \ / _\ ( \/ )( __ \(  _ \
  ) __/(___ \ )  /( (__(  0 )) D ( )   / (__ (/    \/ \/ \ (__ ( )   /
 (__)  (____/(__/  \___)\__/(____/(__\_)(____/\_/\_/\_)(_/(____/(__\_)
+</pre>
