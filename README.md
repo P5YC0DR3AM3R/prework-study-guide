@@ -68,8 +68,8 @@ N/A
 
 If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
 
-<code> ____   ___  _  _  ___  __  ____  ____  ____   __   _  _  ____  ____ 
+<pre> ____   ___  _  _  ___  __  ____  ____  ____   __   _  _  ____  ____ 
 (  _ \ / __)( \/ )/ __)/  \(    \(  _ \( __ \ / _\ ( \/ )( __ \(  _ \
  ) __/(___ \ )  /( (__(  0 )) D ( )   / (__ (/    \/ \/ \ (__ ( )   /
 (__)  (____/(__/  \___)\__/(____/(__\_)(____/\_/\_/\_)(_/(____/(__\_)
-</code>
+</pre>
