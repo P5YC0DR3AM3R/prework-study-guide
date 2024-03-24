@@ -19,10 +19,19 @@ N/A
 
 ## Usage
 
-Access notes for each section as a Study Guide for class.  Suggestions of order of topics to study are available in the Chrome DevTools console panel.  Topics are listed there.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+Study Guide for Class
 
-![alt text](assets/images/screenshot.png)
+This websdite contains study notes for each section as a Study Guide for class.
+
+Accessing Notes
+
+To access notes for each section, please refer to this website.
+
+Order of Topics to Study
+
+Suggestions of the order of topics to study are available in the Chrome DevTools console panel.
+
+![Screenshot](assets/images/screenshot.png)
 
 ## Credits
 
