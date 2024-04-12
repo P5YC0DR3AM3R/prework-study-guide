@@ -31,7 +31,7 @@ Order of Topics to Study
 
 Suggestions of the order of topics to study are available in the Chrome DevTools console panel.
 
-![Screenshot](assets/images/screenshot.png)
+![Screenshot](./assets/images/screenshot.png)
 
 ## Credits
 
